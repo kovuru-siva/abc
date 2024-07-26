@@ -1,1 +1,2 @@
-welcome to world
+#!/bin/bash
+echo "welcome to world"
